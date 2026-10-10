@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar-asyncpg",
+  "versions": [
+    {
+      "commit": "23fd93d733c74c9b8825c6758d57d34433a540c3",
+      "tag": "",
+      "parsed_at": "2026-10-10T19:55:29.545034+00:00"
+    }
+  ]
+}
