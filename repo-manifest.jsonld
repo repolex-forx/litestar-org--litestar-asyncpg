@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-asyncpg/commit/23fd93d733c74c9b8825c6758d57d34433a540c3",
       "git:hexsha": "23fd93d733c74c9b8825c6758d57d34433a540c3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-asyncpg/commit/0b41059df8683405240c8e6d8a80a1fe7d4c1f5d",

@@ -1,0 +1,7 @@
+[2026-10-10T19:53:12Z] === AST ITERATION 1 START | repo=litestar-org/litestar-asyncpg sha=23fd93d7 ===
+[2026-10-10T19:53:12Z] [iter=1] PHASE START: ast repo=litestar-org/litestar-asyncpg sha=23fd93d7
+[2026-10-10T19:53:12Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T19:53:14Z] [iter=1] AST chunks built count=1 triples=30974
+[2026-10-10T19:53:14Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/23fd93d733c74c9b8825c6758d57d34433a540c3/.complete
+[2026-10-10T19:53:14Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-10T19:53:14Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
